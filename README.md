@@ -3,11 +3,11 @@ Austine Waster Exploratory Data Analysis to Anwer the below questions
 
 
 
-1.whats is the highest load weisght 
+1.what is the highest load weight 
 
 
 
-2.whats is the highest load weisght 
+2.what is the highest load weight 
 
 
 3.what are the top load  types 
